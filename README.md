@@ -13,3 +13,9 @@ blah
 blahhh 
 
 ## How to contribute
+
+
+### Copyright
+
+lols copyright
+
