@@ -1,6 +1,10 @@
 # Starter Web Project
 
+blah
+
 ## Introduction
+
+blah
 
 ## Purpose
 
