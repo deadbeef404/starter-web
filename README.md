@@ -18,5 +18,5 @@ Please for this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-lols copyright
+lols copyright. All rights reserved.
 
