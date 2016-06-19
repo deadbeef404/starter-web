@@ -2,6 +2,8 @@
 
 blah. ADding a line for rebasing example, then more changes from my feature branch too
 
+Emergency fix
+
 ## Introduction
 
 blah
